@@ -1,4 +1,3 @@
- readme Script for home Page
 
 ### Hi there, I'm Md.Yeasin Sheikh 👋.
 
@@ -13,11 +12,11 @@
 
 ### Connect with me:
 
+[<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />][telegram]
+
 [<img align="left" alt="Md.Yeasin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />][telegram]
 
 [<img align="left" alt="uri" width="22px" src="https://github.com/yeasin50/AssestsFor_/blob/master/logo/uri%20(1).png" />][uri]
 
@@ -35,6 +34,8 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<br />
+
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -46,8 +47,10 @@
 
 <br />
 <br />
+
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeasin50)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="Alan-Cha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yeasin50&show_icons=true&hide_border=true" />
 
 [website]: https://sites.google.com/view/mdyeasinsheikh
 [linkedin]: https://www.linkedin.com/in/md-yeasin-sheikh-0b821a160

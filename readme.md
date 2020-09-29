@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="telegram" width=[picWidth] src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/telegram.svg" />][telegram]
 
 [<img align="left" alt="Md.Yeasin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
@@ -28,6 +28,7 @@
 <li>
 <img align="left" alt="Python" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" />
 <img align="left" alt="Java" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" />
+<img align="left" alt="Dart" width="26px" src="https://github.com/yeasin50/logos/blob/master/logos/dart.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C#" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-sharp.svg" />
@@ -57,3 +58,4 @@
 [uri]: https://www.urionlinejudge.com.br/judge/en/profile/260405
 [hackerRank]: https://www.hackerrank.com/yeasinsheikh50?hr_r=1
 [telegram]: https://t.me/yeasinsheikh
+[picWidth]: "30px"

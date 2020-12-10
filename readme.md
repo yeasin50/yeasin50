@@ -52,7 +52,7 @@
 
 ---
 
-<img align="left" alt="Alan-Cha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yeasin50&show_icons=true&hide_border=true" />
+<img align="left" alt="Alan-Cha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yeasin50&show_icons=true&theme=algolia&hide_border=true" />
 
 [website]: https://sites.google.com/view/mdyeasinsheikh
 [linkedin]: https://www.linkedin.com/in/md-yeasin-sheikh-0b821a160

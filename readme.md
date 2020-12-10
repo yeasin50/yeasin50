@@ -54,7 +54,7 @@
 
 <img align="left" alt="Alan-Cha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yeasin50&show_icons=true&theme=algolia&hide_border=true" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeasin50&repo=github-readme-stats)](https://github.com/yeasin50/github-readme-stats)
+
 
 [website]: https://sites.google.com/view/mdyeasinsheikh
 [linkedin]: https://www.linkedin.com/in/md-yeasin-sheikh-0b821a160

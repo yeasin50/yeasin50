@@ -3,9 +3,9 @@
 
 ## I'm a Son, Programmer, and Student. 
 - 🌱 I'm currently learning everything 🤣
-- 🛠 I'm currently practicing Unity3D, ML, Flutter
+- 🛠 I'm currently working on Flutter, Unity3D, ML. 
 - 🔭 I'm looking for knowledge to grab
-- 🎯 2020 Goals: Complete my practice sections 
+- 🎯 2021 Goals: Complete my practice sections 
 - 🍭 fun fact: I love to play guitar and online games
 
 <br />

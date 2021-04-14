@@ -21,10 +21,8 @@ My name is Md. Yeasin Sheikh
 
 ### Connect with me:
 ----
-<p align="center"> 
-<a href="https://www.linkedin.com/in/mdyeasinsheikh/" alt="linkedIN mdyeasinsheikh">
-        <img  alt="" width="35px" src="assets/logo/linkedin.png"/></a>
-&nbsp;&nbsp;
+<p align="center"> <a href="https://www.linkedin.com/in/mdyeasinsheikh/" alt="linkedIN mdyeasinsheikh"><img  alt="linkedIN" width="35px" src="assets/logo/linkedin.png"/></a> 
+&nbsp;&nbsp;  
 <a href="https://t.me/yeasinsheikh" alt="telegram">
         <img src="assets/logo/telegram.png" alt="telegram" width="35px"/><a>
 &nbsp;&nbsp;
@@ -37,6 +35,7 @@ My name is Md. Yeasin Sheikh
 <a href="https://t.me/yeasinsheikh" alt="telegram">
         <img  alt="uri" width="35px" src="assets/logo/uri.png" /></a>
 </p>
+
 <br>
 
 <p align="center">
@@ -46,14 +45,18 @@ My name is Md. Yeasin Sheikh
 </p>
 
 
-<container align="center">
+<p align="center">
+<b>  
 
 ![Yeasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&theme=compact)
+
 </p>
 
+<p>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact)
-</container>
+
+</p>
 
 </br>
 
@@ -66,7 +69,7 @@ My name is Md. Yeasin Sheikh
 <img  alt="Java" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" />
 <img  alt="Dart" width="30px" src="https://github.com/yeasin50/logos/blob/master/logos/dart.svg" />
 <img  alt="C" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" />
-<img  alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+
 <img  alt="C#" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-sharp.svg" />
 <img  alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
@@ -93,8 +96,6 @@ My name is Md. Yeasin Sheikh
 <br />
 <br />
 
-------
-### <container align="center"> Feel Free to Contact🤗</container>
 
 [website]: https://sites.google.com/view/mdyeasinsheikh
 [linkedin]: https://www.linkedin.com/in/md-yeasin-sheikh-0b821a160

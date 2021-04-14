@@ -48,8 +48,9 @@ My name is Md. Yeasin Sheikh
 
 <p align="center">
 <b>  
+<!-- let's check after a week -->  
 
-![Yeasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&theme=compact)
+![Yeasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50)
 
 </p>
 

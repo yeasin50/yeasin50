@@ -7,9 +7,7 @@ My name is Md. Yeasin Sheikh
 &nbsp;&nbsp;&nbsp;  🛠  &nbsp;``Flutter`` Developer and playing with ``IoT`` & ``Unity3D``  
 &nbsp;&nbsp;&nbsp;  🔭 looking for knowledge to grab  
 &nbsp;&nbsp;&nbsp;  🎯 Learn, Contribute and Grow  
-&nbsp;&nbsp;&nbsp;  🍭 Pull Stack developer, like to play around with bugs👾 
-
-
+&nbsp;&nbsp;&nbsp;  🍭 Pull Stack developer, like to play around with bugs👾
 
 [website]: https://sites.google.com/view/mdyeasinsheikh
 [linkedin]: https://www.linkedin.com/in/md-yeasin-sheikh-0b821a160
@@ -25,9 +23,9 @@ My name is Md. Yeasin Sheikh
 
 
 ### Connect with me:
-<p align="center"> <a href="https://www.linkedin.com/in/mdyeasinsheikh/" alt="linkedIN mdyeasinsheikh"><img  alt="linkedIN" width="35px" src="assets/logo/Linkedin.png"/></a> 
-&nbsp;&nbsp;  
 
+<a href="https://www.linkedin.com/in/mdyeasinsheikh/" alt="linkedIN mdyeasinsheikh"><img  alt="linkedIN" width="35px" src="assets/logo/Linkedin.png"/></a> 
+&nbsp;&nbsp; 
 <a href="https://t.me/yeasinsheikh" alt="telegram">
         <img src="assets/logo/telegram.png" alt="telegram" width="35px"/><a>
 &nbsp;&nbsp;
@@ -39,33 +37,28 @@ My name is Md. Yeasin Sheikh
 &nbsp;&nbsp;
 <a href="https://t.me/yeasinsheikh" alt="telegram">
         <img  alt="uri" width="35px" src="assets/logo/uri.png" /></a>
-</p>
+
 
 ------
 
-<p align="center">
 
 <img alt="Yeasin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yeasin50&show_icons=true&theme=algolia&hide_border=true" /> 
 
-</p>
 
-**Last 7 Days Activity**
+***Last 7 Days Activity***
 
-<p align='center'>
+
 <img alt="Yeasin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&layout=compact"/>
 </p>
 
----
 
-<p align='center'>
 <img alt="Most Used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact"/>
-
-</p>
 
 </br>
 
+---
 ### Languages and Tools:
------
+
 <p align="left">
 <img  alt="Dart" width="30px" src="https://github.com/yeasin50/logos/blob/master/logos/dart.svg" />
 <img  alt="Python" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" />

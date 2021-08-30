@@ -1,15 +1,14 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 My name is Md. Yeasin Sheikh
 
+## I'm a Son, Programmer, and Student
 
-## I'm a Son, Programmer, and Student. 
 &nbsp;&nbsp;&nbsp;  🌱 I'm currently learning everything 🤓  
 &nbsp;&nbsp;&nbsp;  🛠  &nbsp;``Flutter`` Developer and playing with ``IoT`` & ``Unity3D``  
 &nbsp;&nbsp;&nbsp;  🔭 looking for knowledge to grab  
 &nbsp;&nbsp;&nbsp;  🎯 Learn, Contribute and Grow  
 &nbsp;&nbsp;&nbsp;  🍭 Pull Stack developer, like to play around with bugs👾 
 
-<br />
 
 
 [website]: https://sites.google.com/view/mdyeasinsheikh
@@ -20,10 +19,15 @@ My name is Md. Yeasin Sheikh
 
 ![Profile views](https://gpvc.arturio.dev/yeasin50)
 
+<!-- stackOverFlow -->
+<a href="https://stackoverflow.com/users/10157127/yeasin-sheikh"><img src="https://stackoverflow.com/users/flair/10157127.png?theme=clean" width="208" height="58" alt="profile for Yeasin Sheikh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yeasin Sheikh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
 
 ### Connect with me:
 <p align="center"> <a href="https://www.linkedin.com/in/mdyeasinsheikh/" alt="linkedIN mdyeasinsheikh"><img  alt="linkedIN" width="35px" src="assets/logo/Linkedin.png"/></a> 
 &nbsp;&nbsp;  
+
 <a href="https://t.me/yeasinsheikh" alt="telegram">
         <img src="assets/logo/telegram.png" alt="telegram" width="35px"/><a>
 &nbsp;&nbsp;
@@ -37,9 +41,7 @@ My name is Md. Yeasin Sheikh
         <img  alt="uri" width="35px" src="assets/logo/uri.png" /></a>
 </p>
 
-
 ------
-
 
 <p align="center">
 
@@ -47,18 +49,16 @@ My name is Md. Yeasin Sheikh
 
 </p>
 
+**Last 7 Days Activity**
 
-<p align="center">
-<b>  
-<!-- let's check after a week -->  
-
-![Yeasin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&layout=compact)
-
+<p align='center'>
+<img alt="Yeasin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&layout=compact"/>
 </p>
 
-<p>  
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact)
+<p align='center'>
+<img alt="Most Used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact"/>
 
 </p>
 

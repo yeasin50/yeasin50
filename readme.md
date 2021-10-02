@@ -45,7 +45,7 @@ My name is Md. Yeasin Sheikh
 <img alt="Yeasin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yeasin50&show_icons=true&theme=algolia&hide_border=true" /> 
 
 
-***Last 7 Days Activity***
+<!-- ***Last 7 Days Activity*** -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -54,7 +54,7 @@ My name is Md. Yeasin Sheikh
 </p> -->
 
 
-<img alt="Most Used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact"/>
+<!-- <img alt="Most Used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact"/> -->
 
 </br>
 

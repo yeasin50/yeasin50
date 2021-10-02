@@ -47,9 +47,11 @@ My name is Md. Yeasin Sheikh
 
 ***Last 7 Days Activity***
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<img alt="Yeasin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&layout=compact"/>
-</p>
+<!-- <img alt="Yeasin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&layout=compact"/>
+</p> -->
 
 
 <img alt="Most Used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact"/>

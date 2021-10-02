@@ -48,6 +48,12 @@ My name is Md. Yeasin Sheikh
 <!-- ***Last 7 Days Activity*** -->
 
 <!--START_SECTION:waka-->
+```text
+Week: 25 September, 2021 - 01 October, 2021
+
+Dart         30 hrs 16 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.60 % 
+Markdown     5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.30 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- <img alt="Yeasin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=yeasin50&layout=compact"/>

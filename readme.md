@@ -50,10 +50,10 @@ My name is Md. Yeasin Sheikh
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2022 - To: 06 March 2022
+From: 28 February 2022 - To: 07 March 2022
 
-Dart       13 hrs 38 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.69 %
-Other      3 hrs 24 mins   ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.63 %
+Dart       10 hrs 58 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.71 %
+Other      3 hrs 49 mins   ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.36 %
 ```
 
 <!--END_SECTION:waka-->

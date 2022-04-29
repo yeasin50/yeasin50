@@ -47,13 +47,13 @@ My name is Md. Yeasin Sheikh
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2022 - To: 27 April 2022
+From: 29 March 2022 - To: 28 April 2022
 
-Total Time: 110 hrs 53 mins
+Total Time: 114 hrs 15 mins
 
-Dart             93 hrs 2 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.23 %
-Java             7 hrs 18 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.22 %
-Other            6 hrs 32 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.57 %
+Dart             96 hrs 20 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.75 %
+Java             7 hrs 19 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.06 %
+Other            6 hrs 32 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.42 %
 ```
 
 <!--END_SECTION:waka-->

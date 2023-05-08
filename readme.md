@@ -65,6 +65,9 @@ Other        6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- <img alt="Most Used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact"/> -->
 
+<!-- last year activity -->
+<img src="https://wakatime.com/share/@yeasin50/517b1d32-db9b-4f6b-b439-3005a14fc8d3.svg"></img>
+  
 </br>
 
 ---

@@ -66,7 +66,7 @@ Other        6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!-- <img alt="Most Used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin50&layout=compact"/> -->
 
 <!-- last year activity -->
-<img src="https://wakatime.com/share/@yeasin50/517b1d32-db9b-4f6b-b439-3005a14fc8d3.svg"></img>
+<a href='https://wakatime.com/share/@yeasin50/1406ef6d-28b5-4296-b485-cb1246dec3c6.svg' target="_blank"> <img src="https://wakatime.com/share/@yeasin50/517b1d32-db9b-4f6b-b439-3005a14fc8d3.svg"></img> </a>
   
 </br>
 

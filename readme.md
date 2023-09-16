@@ -2,10 +2,10 @@
 
 My name is Md. Yeasin Sheikh
 
-## I'm a Son, Programmer, and Student
+## I'm a Son, Programmer, focused on Flutter
 
 &nbsp;&nbsp;&nbsp; 🌱 I'm currently learning everything 🤓  
-&nbsp;&nbsp;&nbsp; 🛠 &nbsp;`Flutter` Developer and playing with `IoT` & `Unity3D`  
+&nbsp;&nbsp;&nbsp; 🛠 &nbsp;`Flutter` Developer and playing with python 
 &nbsp;&nbsp;&nbsp; 🔭 looking for knowledge to grab  
 &nbsp;&nbsp;&nbsp; 🎯 Learn, Contribute and Grow  
 &nbsp;&nbsp;&nbsp; 🍭 Pull Stack developer, like to play around with bugs👾

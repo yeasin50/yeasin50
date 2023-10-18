@@ -76,11 +76,11 @@ Ezhil      3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p align="left">
 <img  alt="Dart" width="30px" src="https://github.com/yeasin50/logos/blob/master/logos/dart.svg" />
-<img  alt="Python" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" />
-<img  alt="Java" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" />
-<img  alt="C" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" />
-<img  alt="C#" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-sharp.svg" />
-<img  alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<!-- <img  alt="Python" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" /> -->
+<!-- <img  alt="Java" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" /> -->
+<!-- <img  alt="C" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg" /> -->
+<!-- <img  alt="C#" width="30px" src="https://github.com/gilbarbara/logos/blob/master/logos/c-sharp.svg" /> -->
+<!-- <img  alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
 </p>
 
 </br>
@@ -88,7 +88,7 @@ Ezhil      3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <p align="left">
 <img  alt="Flutter" width="30px" src="https://github.com/yeasin50/logos/blob/master/logos/flutter.svg" />
 <img  alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img  alt="Unity" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<!-- <img  alt="Unity" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" /> -->
 <img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
 </p>

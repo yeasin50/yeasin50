@@ -5,11 +5,13 @@ My name is Md. Yeasin Sheikh
 ## I'm a Son, Programmer, focused on Flutter
 
 &nbsp;&nbsp;&nbsp; 🌱 I'm currently learning everything 🤓  
-&nbsp;&nbsp;&nbsp; 🛠 &nbsp;`Flutter` Developer and playing with python   
+&nbsp;&nbsp;&nbsp; 🛠 &nbsp;`Flutter` Developer and playing with tech.  
 &nbsp;&nbsp;&nbsp; 🔭 looking for knowledge to grab    
 &nbsp;&nbsp;&nbsp; 🎯 Learn, Contribute and Grow    
 &nbsp;&nbsp;&nbsp; 🍭 Pull Stack developer, like to play around with bugs👾
 
+
+ 
 [website]: https://sites.google.com/view/mdyeasinsheikh
 [linkedin]: https://www.linkedin.com/in/md-yeasin-sheikh-0b821a160
 [uri]: https://www.urionlinejudge.com.br/judge/en/profile/300405
@@ -24,6 +26,8 @@ My name is Md. Yeasin Sheikh
 
 ### Connect with me
 
+<a href="https://www.upwork.com/freelancers/~0112dd41403a5bce6b?s=996364627857502209" alt="UpWork mdyeasinsheikh"><img  alt="upWork" height="35px" src="https://github.com/yeasin50/yeasin50/assets/46500228/02fa095d-80b4-4816-871e-9ace65566668"/></a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mdyeasinsheikh/" alt="linkedIN mdyeasinsheikh"><img  alt="linkedIN" width="35px" src="assets/logo/Linkedin.png"/></a>
 &nbsp;&nbsp;
 <a href="https://t.me/yeasinsheikh" alt="telegram">

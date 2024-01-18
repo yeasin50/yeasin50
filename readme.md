@@ -18,7 +18,7 @@ My name is Md. Yeasin Sheikh
 [hackerrank]: https://www.hackerrank.com/yeasinsheikh50?hr_r=1
 [telegram]: https://t.me/yeasinsheikh
 
-![Profile views](https://gpvc.arturio.dev/yeasin50)
+<img src="https://komarev.com/ghpvc/?username=yeasin50"> [![wakatime](https://wakatime.com/badge/user/24360e88-b512-4705-9ad1-8a2895e6dd6d.svg)](https://wakatime.com/@24360e88-b512-4705-9ad1-8a2895e6dd6d)
 
 <!-- stackOverFlow -->
 

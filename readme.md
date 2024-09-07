@@ -1,6 +1,19 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Md. Yeasin Sheikh
+
+Md. Yeasin Sheikh | Flutter Developer 
+
+A limited lifespan trying to provide some value. Passionate Flutter developer (4+ years) working as a freelancer and in remote positions to contribute my skills and focus on growth. Open to visa-sponsored opportunities or M.Sc. scholarships. Driven to make a difference.
+
+Have an offer for me?
+- Q1: I will know what I need when I see it. Please share the details and the end goal.
+- Q2: What value would you derive from your final project?
+- Q3: What are you willing to exchange for my time and skills?
+
+Interests
+> Life | Reading | Thinking | Exploring | Coding
+
+---
 
 ## I'm a Son, Programmer, focused on Flutter
 

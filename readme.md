@@ -6,12 +6,19 @@ Md. Yeasin Sheikh | Flutter Developer
 A limited lifespan trying to provide some value. Passionate Flutter developer (4+ years) working as a freelancer and in remote positions to contribute my skills and focus on growth. Open to visa-sponsored opportunities or M.Sc. scholarships. Driven to make a difference.
 
 <details>
-<summary>Have an offer for me? </summary>
- 
- - Q1: I will know what I need when I see it. Please share the details and the end goal.
- - Q2: What value would you derive from your final project?  
- - Q3: What are you willing to exchange for my time and skills?  
- 
+<summary>Open to New Opportunities </summary>
+
+I'm actively seeking roles where I can contribute meaningfully while growing professionally. Company culture is crucial to me, especially for full-time positions—I thrive in environments that value collaboration, transparency, and innovation.
+
+Before proceeding, I'd love to get more clarity on the following:
+
+- Could you provide more details about the role or project you're considering me for?
+- How do you envision my skills adding value to your team or project?
+- What are you offering in terms of compensation, growth opportunities, and work-life balance in return for my expertise?
+
+I'm excited to explore how my skills and passion can align with your needs!
+
+Currently working with Dart and exploring Go, with plans to dive into Rust in the future.
 </details>
 Interests
 > Life | Reading | Thinking | Exploring | Coding

@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-Md. Yeasin Sheikh | Flutter Developer 
+Md. Yeasin Sheikh | Flutter Developer
 
 A limited lifespan trying to provide some value. Passionate Flutter developer (4+ years) working as a freelancer and in remote positions to contribute my skills and focus on growth. Open to visa-sponsored opportunities or M.Sc. scholarships. Driven to make a difference.
 
@@ -19,6 +18,7 @@ Before proceeding, I'd love to get more clarity on the following:
 I'm excited to explore how my skills and passion can align with your needs!
 
 Currently working with Dart and exploring Go, with plans to dive into Rust in the future.
+
 </details>
 Interests
 > Life | Reading | Thinking | Exploring | Coding
@@ -29,26 +29,29 @@ Interests
 
 &nbsp;&nbsp;&nbsp; 🌱 I'm currently learning everything 🤓  
 &nbsp;&nbsp;&nbsp; 🛠 &nbsp;`Flutter` Developer and playing with tech.  
-&nbsp;&nbsp;&nbsp; 🔭 looking for knowledge to grab    
-&nbsp;&nbsp;&nbsp; 🎯 Learn, Contribute and Grow    
+&nbsp;&nbsp;&nbsp; 🔭 looking for knowledge to grab  
+&nbsp;&nbsp;&nbsp; 🎯 Learn, Contribute and Grow  
 &nbsp;&nbsp;&nbsp; 🍭 Pull Stack developer, like to play around with bugs👾
 
-
- 
 [website]: https://sites.google.com/view/mdyeasinsheikh
 [linkedin]: https://www.linkedin.com/in/md-yeasin-sheikh-0b821a160
 [uri]: https://www.urionlinejudge.com.br/judge/en/profile/300405
 [hackerrank]: https://www.hackerrank.com/yeasinsheikh50?hr_r=1
 [telegram]: https://t.me/yeasinsheikh
+[yt]: https://www.youtube.com/@FlutterforMe
 
 <img src="https://komarev.com/ghpvc/?username=yeasin50"> [![wakatime](https://wakatime.com/badge/user/24360e88-b512-4705-9ad1-8a2895e6dd6d.svg)](https://wakatime.com/@24360e88-b512-4705-9ad1-8a2895e6dd6d)
 
 <!-- stackOverFlow -->
 
-<a href="https://stackoverflow.com/users/10157127/yeasin-sheikh?tab=profile"><img src="https://stackoverflow.com/users/flair/10157127.png?theme=clean" width="208" height="58" alt="profile for Yeasin Sheikh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yeasin Sheikh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ### Connect with me
 
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@FlutterforMe" alt="FlutterForMe">
+<img src="assets/logo/yt.png" alt="f@lutterForMe" width="35px"/><a>
+&nbsp;&nbsp;
+<a href="https://t.me/yeasinsheikh" alt="telegram">
+<img src="assets/logo/telegram.png" alt="telegram" width="35px"/><a>
 <a href="https://www.upwork.com/freelancers/~0112dd41403a5bce6b?s=996364627857502209" alt="UpWork mdyeasinsheikh"><img  alt="upWork" height="35px" src="https://github.com/yeasin50/yeasin50/assets/46500228/02fa095d-80b4-4816-871e-9ace65566668"/></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mdyeasinsheikh/" alt="linkedIN mdyeasinsheikh"><img  alt="linkedIN" width="35px" src="assets/logo/Linkedin.png"/></a>
@@ -94,7 +97,7 @@ JSON              35 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!-- last year activity -->
 <!-- <a href='https://wakatime.com/share/@yeasin50/1406ef6d-28b5-4296-b485-cb1246dec3c6.svg' target="_blank"> <img src="https://wakatime.com/share/@yeasin50/517b1d32-db9b-4f6b-b439-3005a14fc8d3.svg"></img> </a>
- --> 
+ -->
 </br>
 
 ---

@@ -1,0 +1,20 @@
+
+" play 7Apr,25
+"
+call plug#begin('~/.local/share/nvim/plugged')
+
+" and some of the plugins i need
+
+Plug 'ThePrimeagen/vim-be-good'
+
+Plug 'wakatime/vim-wakatime'
+
+call plug#end()
+
+let g:wakatime_api_key = $WAKATIME_API_KEY
+
+"line wrap for long lines 
+set wrap
+
+set clipboard=unnamedplus
+

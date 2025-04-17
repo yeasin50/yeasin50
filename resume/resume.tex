@@ -1,0 +1,83 @@
+\documentclass[letterpaper,10pt]{article}  % Reduced font size to 10pt
+
+% Packages
+\usepackage{fontawesome5}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+% Custom font
+\usepackage[default]{lato}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins for better fit on the first page
+\addtolength{\oddsidemargin}{-0.75in}  % Slightly reduced left margin
+\addtolength{\evensidemargin}{-0.75in} % Slightly reduced right margin
+\addtolength{\textwidth}{1.5in}  % Increased width for content space
+\addtolength{\topmargin}{-0.75in} % Reduced top margin
+\addtolength{\textheight}{1.5in}  % Increased text height for more content
+
+% Spacing adjustments for better clarity but smaller overall space
+\setlength{\parskip}{0.5ex} % Reduced space between paragraphs
+\setlength{\parindent}{0pt} % Remove paragraph indentation
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting with improved spacing
+\titleformat{\section}{
+  \vspace{6pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule\vspace{-4pt}]
+
+% Ensure that the generated PDF is machine-readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------%
+% Custom commands
+\begin{document}
+\include{custom-commands}
+
+%-------------------------------------------%
+%%%%%%  RESUME STARTS HERE  %%%%%
+
+%----------HEADING----------%
+\input{src/heading}
+
+%-----------INTRODUCTION-----------%
+\input{src/introduction}
+
+%-----------EXPERIENCE-----------%
+\input{src/experience}
+
+%-----------PROJECTS-----------%
+\input{src/projects}
+
+%-----------ACHIEVEMENTS-----------%
+\input{src/achievements}
+
+
+%-----------SKILLS-----------%
+\input{src/skills.tex}
+
+%-----------EDUCATION-----------%
+\input{src/education.tex}
+
+%-------------------------------------------%
+\end{document}

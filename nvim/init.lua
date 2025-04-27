@@ -13,4 +13,13 @@ vim.opt.clipboard = "unnamedplus"
 
 vim.opt.wrap = true
 
+-- Auto-close parentheses
+vim.api.nvim_set_keymap('i', '(', '()<Left>', { noremap = true, silent = true })
+
+-- Auto-close square brackets
+vim.api.nvim_set_keymap('i', '[', '[]<Left>', { noremap = true, silent = true })
+
+-- Auto-close curly braces
+vim.api.nvim_set_keymap('i', '{', '{}<Left>', { noremap = true, silent = true })
+
 require("config.lazy")

@@ -2,7 +2,7 @@
 
 Md. Yeasin Sheikh | Flutter Developer
 
-A limited lifespan trying to provide some value. Passionate Flutter developer (4+ years) working as a freelancer and in remote positions to contribute my skills and focus on growth. Open to visa-sponsored opportunities or M.Sc. scholarships. Driven to make a difference.
+A limited lifespan trying to provide some value. Passionate Flutter developer, working as a freelancer and in remote positions to contribute my skills and focus on growth. Open to visa-sponsored opportunities or M.Sc. scholarships. Driven to make a difference.
 
 <details>
 <summary>Open to New Opportunities </summary>

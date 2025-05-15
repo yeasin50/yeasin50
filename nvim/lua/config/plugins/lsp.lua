@@ -1,10 +1,7 @@
 return {
-    -- Main LSP Configuration
     'neovim/nvim-lspconfig',
     dependencies = {
-        -- Automatically install LSPs and related tools to stdpath for Neovim
-        -- Mason must be loaded before its dependents so we need to set it up here.
-        -- NOTE: `opts = {}` is the same as calling `require('mason').setup({})`
+
         { 'williamboman/mason.nvim', opts = {} },
         'williamboman/mason-lspconfig.nvim',
         'WhoIsSethDaniel/mason-tool-installer.nvim',
@@ -13,28 +10,6 @@ return {
         { 'j-hui/fidget.nvim',       opts = {} },
     },
     config = function()
-        -- Brief aside: **What is LSP?**
-        --
-        -- LSP is an initialism you've probably heard, but might not understand what it is.
-        --
-        -- LSP stands for Language Server Protocol. It's a protocol that helps editors
-        -- and language tooling communicate in a standardized fashion.
-        --
-        -- In general, you have a "server" which is some tool built to understand a particular
-        -- language (such as `gopls`, `lua_ls`, `rust_analyzer`, etc.). These Language Servers
-        -- (sometimes called LSP servers, but that's kind of like ATM Machine) are standalone
-        -- processes that communicate with some "client" - in this case, Neovim!
-        --
-        -- LSP provides Neovim with features like:
-        --  - Go to definition
-        --  - Find references
-        --  - Autocompletion
-        --  - Symbol Search
-        --  - and more!
-        --
-        -- Thus, Language Servers are external tools that must be installed separately from
-        -- Neovim. This is where `mason` and related plugins come into play.
-        --
         -- If you're wondering about lsp vs treesitter, you can check out the wonderfully
         -- and elegantly composed help section, `:help lsp-vs-treesitter`
 
@@ -175,11 +150,8 @@ return {
             },
         }
 
-        -- LSP servers and clients are able to communicate to each other what features they support.
-        --  By default, Neovim doesn't support everything that is in the LSP specification.
-        --  When you add nvim-cmp, luasnip, etc. Neovim now has *more* capabilities.
-        --  So, we create new capabilities with nvim cmp, and then broadcast that to the servers.
-        local capabilities = vim.lsp.protocol.make_client_capabilities()
+        local orginal_capabilities = vim.lsp.protocol.make_client_capabilities()
+        local capabilities = require("blink.cmp").get_lsp_capabilities(orginal_capabilities)
         -- capabilities = vim.tbl_deep_extend('force', capabilities, require('cmp_nvim_lsp').default_capabilities())
 
         -- Enable the following language servers
@@ -193,8 +165,8 @@ return {
         --        For example, to see the options for `lua_ls`, you could go to: https://luals.github.io/wiki/settings/
         local servers = {
             -- bashls = {},
-            marksman= {},
-            -- protobuf ={}, 
+            marksman = {},
+            -- protobuf ={},
             gopls = {},
             -- pyright = {},
             -- rust_analyzer = {},

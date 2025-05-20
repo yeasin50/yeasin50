@@ -24,6 +24,16 @@ vim.api.nvim_create_autocmd("FileType", {
   end,
 })
 
+
+
+vim.opt.guifont = "Fira Code Medium,Noto Sans Bengali Regular:h14"
+
+-- Shift + Left: select previous word
+vim.api.nvim_set_keymap('i', '<S-Left>', '<Esc>vbgi', { noremap = true, silent = true })
+
+-- Shift + Right: select next word
+vim.api.nvim_set_keymap('i', '<S-Right>', '<Esc>vwea', { noremap = true, silent = true })
+
 -- Auto-close parentheses
 vim.api.nvim_set_keymap('i', '(', '()<Left>', { noremap = true, silent = true })
 

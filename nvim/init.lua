@@ -34,13 +34,13 @@ vim.api.nvim_set_keymap('i', '<S-Left>', '<Esc>vbgi', { noremap = true, silent =
 -- Shift + Right: select next word
 vim.api.nvim_set_keymap('i', '<S-Right>', '<Esc>vwea', { noremap = true, silent = true })
 
--- Auto-close parentheses
-vim.api.nvim_set_keymap('i', '(', '()<Left>', { noremap = true, silent = true })
-
--- Auto-close square brackets
-vim.api.nvim_set_keymap('i', '[', '[]<Left>', { noremap = true, silent = true })
-
--- Auto-close curly braces
-vim.api.nvim_set_keymap('i', '{', '{}<Left>', { noremap = true, silent = true })
-
+-- -- Auto-close parentheses
+-- vim.api.nvim_set_keymap('i', '(', '()<Left>', { noremap = true, silent = true })
+--
+-- -- Auto-close square brackets
+-- vim.api.nvim_set_keymap('i', '[', '[]<Left>', { noremap = true, silent = true })
+--
+-- -- Auto-close curly braces
+-- vim.api.nvim_set_keymap('i', '{', '{}<Left>', { noremap = true, silent = true })
+--
 require("config.lazy")

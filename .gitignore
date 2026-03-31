@@ -15,6 +15,8 @@
 *.vrb
 *.xdv
 
+repos_info.md
+
 # Temporary files
 *.tmp
 *.bak

@@ -21,7 +21,7 @@ Interests
 
 ### Let's Connect
 
-[🌐 Website](https://yeasin50.github.io/portfolio/) •
+[🌐 Website](https://yeasin50.github.io) •
 [💼 LinkedIn](https://www.linkedin.com/in/mdyeasinsheikh/) •
 [💻 Upwork](https://www.upwork.com/freelancers/~0112dd41403a5bce6b) •
 [📺 YouTube (Main)](https://www.youtube.com/@yt.yeasin50) •

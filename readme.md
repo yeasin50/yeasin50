@@ -10,7 +10,7 @@ Currently working with Dart and exploring Go, with plans to dive into Rust in th
 Interests
 > Life | Reading | Thinking | Exploring | Coding
 
-#### I'm a Son, Programmer, focused on Flutter & GoLang
+### I'm a Son, Programmer, focused on Flutter & GoLang
 
 &nbsp;&nbsp;&nbsp; 🌱 I'm currently learning everything that solve problem   
 &nbsp;&nbsp;&nbsp; 🛠 &nbsp;`Flutter` Developer, building SAAS and playing with linux.  

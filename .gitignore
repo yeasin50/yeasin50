@@ -15,11 +15,14 @@
 *.vrb
 *.xdv
 
+repos_info.md
+
 # Temporary files
 *.tmp
 *.bak
 *.backup
 *.dvi
+--action-cache-path
 
 # PDF output
 # *.pdf

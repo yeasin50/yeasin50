@@ -22,6 +22,7 @@ repos_info.md
 *.bak
 *.backup
 *.dvi
+--action-cache-path
 
 # PDF output
 # *.pdf

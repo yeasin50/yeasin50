@@ -12,7 +12,7 @@ Interests
 
 ### I'm a Son, Programmer, focused on Flutter & GoLang
 
-&nbsp;&nbsp;&nbsp; 🌱 I'm currently learning everything that solve problem   
+&nbsp;&nbsp;&nbsp; 🌱 I learn whatever solves my problems.   
 &nbsp;&nbsp;&nbsp; 🛠 &nbsp;`Flutter` Developer, building SAAS and playing with linux.  
 &nbsp;&nbsp;&nbsp; 🔭 looking for knowledge to grab  
 &nbsp;&nbsp;&nbsp; 🎯 Learn, Contribute and Grow  

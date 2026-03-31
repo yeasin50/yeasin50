@@ -103,7 +103,7 @@ Bash         1 hr 26 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 - [Text to Mesh 3D][text_to_mesh_3d] - Blender add-on for streamlining text-to-3D-mesh conversions.
 - [Freeze Frame VSE][freeze_frame_vse_addon] - Freeze-frame add-on for Blender's Video Sequence Editor.
 
-[my_website]: https://yeasin50.github.io/portfolio/
+[my_website]: https://yeasin50.github.io
 [github]: https://github.com/yeasin50
 [repo_trust]: https://github.com/yeasin50/trust
 [repo_wbwwb]: https://github.com/yeasin50/wbwwb
